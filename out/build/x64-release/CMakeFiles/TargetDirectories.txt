@@ -1,0 +1,5 @@
+D:/projcpp/CMakeSFMLProj/out/build/x64-release/CMakeFiles/edit_cache.dir
+D:/projcpp/CMakeSFMLProj/out/build/x64-release/CMakeFiles/rebuild_cache.dir
+D:/projcpp/CMakeSFMLProj/out/build/x64-release/CMakeSFMLProj/CMakeFiles/CMakeSFMLProj.dir
+D:/projcpp/CMakeSFMLProj/out/build/x64-release/CMakeSFMLProj/CMakeFiles/edit_cache.dir
+D:/projcpp/CMakeSFMLProj/out/build/x64-release/CMakeSFMLProj/CMakeFiles/rebuild_cache.dir
